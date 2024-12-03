@@ -1,0 +1,12 @@
+{
+    "welcome": {
+        "enabled": true,
+        "channel_id": 1312445801288695928,
+        "message": "\u00dcdv {userMention} a {serverName} szerveren! Te vagy a {userCount}. tagunk!"
+    },
+    "goodbye": {
+        "enabled": true,
+        "channel_id": 1312445801288695928,
+        "message": "Viszl\u00e1t {userMention} :("
+    }
+}
