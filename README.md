@@ -1,0 +1,2 @@
+# dcbot
+Discord bot tesztekés
